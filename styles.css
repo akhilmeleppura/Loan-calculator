@@ -1,0 +1,11 @@
+
+h2, label, input, button {
+    display: block;
+    margin: 10px auto;
+  }
+  
+  #result {
+    text-align: center;
+    margin-top: 20px;
+  }
+  
